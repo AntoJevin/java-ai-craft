@@ -38,7 +38,7 @@ const Home = () => {
               
               {/* Name */}
               <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-4">
-                Your Name
+                Anto Jevin Antony Vincent
               </h1>
               
               <h2 className="text-3xl md:text-5xl font-bold text-foreground mb-6">
